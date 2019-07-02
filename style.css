@@ -1,0 +1,65 @@
+body, table, input {
+    font-family: Verdana;
+    font-size: 9pt;
+}
+
+div.div_token span.lu_keyword {
+    /*
+    background-color: #000;
+    color: #fff;
+    */
+    border-bottom: 3px solid #000;
+}
+
+.tb_tooltip {
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#tooltip {
+    width: 250px;
+}
+
+#tooltip h3 {
+    font-size: .8em;
+    font-weight: normal;
+}
+
+div.div_token {
+    width: 100px;
+    height: 50px;
+    float: left;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+div.div_token span {
+    display: block;
+    overflow: hidden;
+    padding: 10px 0;
+    border-bottom: 3px solid #fff;
+}
+
+div.div_token select {
+    font-size: .8em;
+    width: 60px;
+}
+
+div.div_token img {
+    border: 0;
+    width: 12px;
+}
+
+#list_of_words td {
+    vertical-align: top;
+    border-top: 1px solid #555;
+}
+
+p.example_sentence {
+    margin: 5px 0;
+    padding: 5px;
+    border: 1px solid navy;
+    font-size: .8em;
+}
