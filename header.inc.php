@@ -11,4 +11,4 @@
     <link rel="stylesheet" href="style.css" type="text/css" media='screen' />
 </head>
 <body>
-    <h1>FrameNet Annotation for Italian</h1>
+    <h1>Framy - A FrameNet Annotation</h1>
